@@ -1,6 +1,6 @@
 # Structure of the repository
 
-The four directories contain the following:
+The four directories contain the following: 
 
 1. `starknet/`: lists of eligibles (identified by their Starknet address) with allocations and Merkle paths, for the categories:
     - Starknet users
